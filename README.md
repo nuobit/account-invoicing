@@ -13,6 +13,7 @@ This project aim to deal with modules related to manage invoicing in a generic w
  - ...
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
@@ -46,6 +47,7 @@ addon | version | summary
 [stock_picking_invoicing_incoterm](stock_picking_invoicing_incoterm/) | 8.0.1.0.0 | Stock Picking Invoicing Incoterm
 [stock_picking_invoicing_incoterm_sale](stock_picking_invoicing_incoterm_sale/) | 8.0.1.0.0 | Copy incoterm from sale to invoice and to picking
 [stock_picking_invoicing_unified](stock_picking_invoicing_unified/) | 8.0.1.0.0 | Create invoices/refunds from pickings of different types
+
 
 Unported addons
 ---------------
